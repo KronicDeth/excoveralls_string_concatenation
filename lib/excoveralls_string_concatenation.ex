@@ -1,0 +1,2 @@
+defmodule ExcoverallsStringConcatenation do
+end

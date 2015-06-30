@@ -1,0 +1,4 @@
+ExcoverallsStringConcatenation
+=============================
+
+** TODO: Add description **
